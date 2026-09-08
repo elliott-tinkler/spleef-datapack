@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "https://github.com/elliott-tinkler",
+    "min_format": [
+      101,
+      1
+    ],
+    "max_format": 107
+  }
+}
