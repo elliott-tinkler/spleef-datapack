@@ -26,8 +26,8 @@ fill -18 -1 -18 17 -1 17 barrier
 
 # fill space below the barrier
 fill -18 -2 -18 17 -26 17 air
-fill -16 -27 -16 15 -51 15 air
-fill -16 -51 -16 15 -64 15 air
+fill -18 -27 -18 17 -51 17 air
+fill -18 -51 -18 17 -64 17 air
 
 # add walls
 fill 18 -64 -19 -19 128 -19 glass
