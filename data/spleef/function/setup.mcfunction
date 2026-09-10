@@ -30,10 +30,10 @@ fill -16 -27 -16 15 -51 15 air
 fill -16 -51 -16 15 -64 15 air
 
 # add walls
-fill 18 64 -19 -19 -64 -19 glass
-fill -19 64 -19 -19 -64 18 glass
-fill -19 64 18 18 -64 18 glass
-fill 18 64 18 18 -64 -19 glass
+fill 18 -64 -19 -19 128 -19 glass
+fill -19 -64 -19 -19 128 18 glass
+fill -19 -64 18 18 128 18 glass
+fill 18 -64 18 18 128 -19 glass
 
 gamerule block_drops false
 gamerule immediate_respawn true
